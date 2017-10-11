@@ -2,16 +2,68 @@ body
 .header{ background: #494d55;
   color: rgba(255, 255, 255, 0.85);
   border-top: 5px solid #40babd;
-  padding: 30px 0;}
+  padding: 70px;
+  }
 .text-logo {
   color: #40babd;
 }
 .col-love {
-	 color: #EA5395
+color: #EA5395
 }
 
 .btn-down{
-	color:white;
+color:white;
 background-color: #40babd;
-  border-color: #40babd
+ border-color: #40babd
+}
+.footer
+{background: #494d55;
+  color: rgba(255, 255, 255, 0.85);
+  padding: 20px 0;
+  }
+ 
+.konteiner-otstyp
+{margin: 4%;}
+
+.opysaniy-padding
+{margin: 4% 15%;}
+
+.otst
+{margin:  4% 10%;}
+.section {
+  padding: 60px 0;
+  background: ##f9f9fb;
+	background-color: #f9f9fb;
+}
+.item-green{
+border-top: 3px solid #75c181;
+}
+.item-pink {
+  border-top: 3px solid #EA5395;
+}
+.item-blue{
+border-top: 3px solid #3aa7aa;
+}
+.item-purple
+{
+border-top: 3px solid #8A40A7;
+}
+.item-tblue
+{
+border-top: 3px solid #40babd;
+}
+.item-orange
+{
+border-top: 3px solid #F88C30;
+}
+.item
+{
+border: 1px solid #f0f0f0;
+background: #ffffff;
+color: rgba(0, 0, 0, 0.85);
+  }
+.icon-r
+{ font-size: 35px;}
+.padd {
+	padding: 40px;
 }
