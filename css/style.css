@@ -1,69 +1,187 @@
-body
-.header{ background: #494d55;
+body 
+{
+  font-family: 'Open Sans', arial, sans-serif;
+  color: #494d55;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.header
+{ 
+	background: #494d55;
   color: rgba(255, 255, 255, 0.85);
   border-top: 5px solid #40babd;
   padding: 70px;
   }
-.text-logo {
+
+.text-logo 
+{
   color: #40babd;
 }
-.col-love {
+.col-love 
+{
 color: #EA5395
 }
 
-.btn-down{
-color:white;
-background-color: #40babd;
- border-color: #40babd
+.btn-down
+{
+  color:white;
+  background-color: #40babd;
+  border-color: #40babd
 }
 .footer
-{background: #494d55;
+{
+	background: #494d55;
   color: rgba(255, 255, 255, 0.85);
   padding: 20px 0;
   }
  
 .konteiner-otstyp
-{margin: 4%;}
-
+{
+	margin: 4%;
+}
+.div-otstyp
+{
+	padding: 0px 0px 35px 0px;
+}
 .opysaniy-padding
-{margin: 4% 15%;}
+{
+	margin: 4% 15%;
+}
 
 .otst
-{margin:  4% 10%;}
-.section {
+{
+	margin:  4% 10%;
+}
+.section 
+{
   padding: 60px 0;
   background: ##f9f9fb;
 	background-color: #f9f9fb;
 }
-.item-green{
+.item-green
+{
 border-top: 3px solid #75c181;
+border-radius: 3px;
 }
-.item-pink {
+.item-pink 
+{
   border-top: 3px solid #EA5395;
+  border-radius: 3px;
 }
-.item-blue{
-border-top: 3px solid #3aa7aa;
+.item-blue
+{
+  border-top: 3px solid #3aa7aa;
+  border-radius: 3px;
 }
 .item-purple
 {
-border-top: 3px solid #8A40A7;
+  border-top: 3px solid #8A40A7;
+  border-radius: 3px;
 }
 .item-tblue
 {
-border-top: 3px solid #40babd;
+  border-top: 3px solid #40babd;
+  border-radius: 3px;
 }
 .item-orange
 {
-border-top: 3px solid #F88C30;
+  border-top: 3px solid #F88C30;
+  border-radius: 3px;
 }
 .item
 {
-border: 1px solid #f0f0f0;
-background: #ffffff;
-color: rgba(0, 0, 0, 0.85);
+  border: 1px solid #f0f0f0;
+  background: #ffffff;
+  color: rgba(0, 0, 0, 0.85);
   }
 .icon-r
-{ font-size: 35px;}
+{ 
+	font-size: 35px;
+}
 .padd {
 	padding: 40px;
+}
+.icon-green{
+  color:#75c181;
+}
+.icon-pink {
+  color:#EA5395;
+}
+.icon-blue{
+  color:#3aa7aa;
+}
+.icon-purple
+{
+  color:#8A40A7;
+}
+.icon-tblue
+{
+  color:#40babd;
+}
+.icon-orange
+{
+  color:#F88C30;
+}
+
+.green:hover a
+{
+  color:#75c181;
+  text-decoration: none;
+}
+.pink:hover a
+ {
+  color:#EA5395;
+  text-decoration: none;
+}
+.blue:hover a
+{
+  color:#3aa7aa;
+  text-decoration: none;
+} 
+.purple:hover a
+{
+  color:#8A40A7;
+  text-decoration: none;
+}
+.tblue:hover a
+{
+  color:#40babd;
+  text-decoration: none;
+}
+.orange:hover a
+{
+
+  color:#F88C30;
+  text-decoration: none;
+}
+.green:hover 
+{
+ background: #f1f1f1;
+ height: 237px
+}
+.pink:hover 
+ {
+  background: #f1f1f1;
+  height: 237px
+}
+.blue:hover 
+{
+ background: #f1f1f1;
+ height: 237px
+} 
+.purple:hover 
+{
+  background: #f1f1f1;
+  height: 237px
+}
+.tblue:hover 
+{
+  background: #f1f1f1;
+  height: 237px
+}
+.orange:hover 
+{
+  background: #f1f1f1;
+  height: 237px
 }
