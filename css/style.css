@@ -89,7 +89,8 @@ body {
   border: 1px solid #f0f0f0;
   background: #ffffff;
   color: rgba(0, 0, 0, 0.85);
-  }
+  height: 237px
+}
 .icon-r { 
 	font-size: 35px;
 }
@@ -184,34 +185,3 @@ p {
 .twitter {
  margin: 20px auto;
 }
-h4 {
-  color: #616670;
-  font-weight:bold;
-}
-/*
-.green:hover a {
-  color:#75c181;
-  text-decoration: none;
-}
-.pink:hover a  {
-  color:#EA5395;
-  text-decoration: none;
-}
-.blue:hover a {
-  color:#3aa7aa;
-  text-decoration: none;
-} 
-.purple:hover a {
-  color:#8A40A7;
-  text-decoration: none;
-}
-.tblue:hover a {
-  color:#40babd;
-  text-decoration: none;
-}
-.orange:hover a {
-  color:#F88C30;
-  text-decoration: none;
-}
-*/
-
