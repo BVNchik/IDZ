@@ -1,0 +1,186 @@
+body {
+  font-family: 'Open Sans', arial, sans-serif;
+  color: #494d55;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.header { 
+	background: #494d55;
+  color: rgba(255, 255, 255, 0.85);
+  border-top: 5px solid #40babd;
+  padding: 50px 0;
+}
+.text-logo {
+  color: #40babd;
+}
+.col-love {
+  color: #EA5395;
+}
+.btn-down {
+  color:white;
+  background-color: #40babd;
+  border-color: #40babd;
+  width:200px; 
+  height:40px;
+  font-size: 18px;
+}
+.footer {
+	background: #494d55;
+  color: rgba(255, 255, 255, 0.85);
+  padding: 20px 0;
+}
+
+.header-conteiner {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container-position {
+	max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.block-position {
+	padding: 0px 0px 35px 0px;
+}
+.description {
+	
+  margin-right: auto;
+  margin-left: auto;
+}
+.getting-started {
+	margin: 30px auto 60px auto;
+  max-width: 800px;
+  color: #616670;
+}
+.section {
+  padding: 40px 0 60px 0;
+  background: ##f9f9fb;
+	background-color: #f9f9fb;
+}
+.item-quick-start {
+  border-top: 3px solid #75c181;
+  border-radius: 3px;
+}
+.item-components {
+  border-top: 3px solid #EA5395;
+  border-radius: 3px;
+}
+.item-charts {
+  border-top: 3px solid #58bbee;
+  border-radius: 3px;
+}
+.item-faq {
+  border-top: 3px solid #8A40A7;
+  border-radius: 3px;
+}
+.item-showcase {
+  border-top: 3px solid #40babd;
+  border-radius: 3px;
+}
+.item-license-credits {
+  border-top: 3px solid #F88C30;
+  border-radius: 3px;
+}
+.item {
+  border: 1px solid #f0f0f0;
+  background: #ffffff;
+  color: rgba(0, 0, 0, 0.85);
+  height: 237px;
+}
+.icon-r { 
+	font-size: 35px;
+}
+.padd {
+	padding: 30px;
+}
+.icon-quick-start {
+  color:#75c181;
+}
+.icon-components {
+  color:#EA5395;
+}
+.icon-charts {
+  color:#58bbee;
+}
+.icon-faq {
+  color:#8A40A7;
+}
+.icon-showcase {
+  color:#40babd;
+}
+.icon-license-credits {
+  color:#F88C30;
+}
+.green:hover  {
+  background: #f1f1f1;
+  height: 237px;
+}
+.pink:hover {
+  background: #f1f1f1;
+  height: 237px;
+}
+.blue:hover {
+  background: #f1f1f1;
+  height: 237px;
+} 
+.purple:hover {
+  background: #f1f1f1;
+  height: 237px;
+}
+.tblue:hover {
+  background: #f1f1f1;
+  height: 237px;
+}
+.orange:hover {
+  background: #f1f1f1;
+  height: 237px;
+}
+a {
+	color: #5f585a;
+  text-decoration: none;
+}
+p {
+ 	color: #616670;
+}
+.footer a {
+  color: #40babd;
+  text-decoration: none;
+}
+.quick-start-green:hover {
+  color:#75c181;
+  text-decoration: none;
+}
+.components-pink:hover {
+  color:#EA5395;
+  text-decoration: none;
+}
+.charts-blue:hover {
+  color:#58bbee;
+  text-decoration: none;
+} 
+.faq-purple:hover {
+  color:#8A40A7;
+  text-decoration: none;
+}
+.showcase-tblue:hover {
+  color:#40babd;
+  text-decoration: none;
+}
+.license-credits-orange:hover {
+  color:#F88C30;
+  text-decoration: none;
+}
+.btn-down:hover {
+  color: #616670;
+  text-decoration: none;
+}
+.btn-down:focus {
+  color: #616670;
+  text-decoration: none;
+}
+.twitter {
+ margin: 20px auto;
+}
